@@ -1,0 +1,81 @@
+# ==============================
+
+# Java
+
+# ==============================
+
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# ==============================
+
+# Maven
+
+# ==============================
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ==============================
+
+# Eclipse / Spring Tool Suite
+
+# ==============================
+
+.project
+.classpath
+.settings/
+.springBeans
+.sts4-cache/
+
+# ==============================
+
+# IntelliJ IDEA
+
+# ==============================
+
+.idea/
+*.iml
+
+# ==============================
+
+# VS Code
+
+# ==============================
+
+.vscode/
+
+# ==============================
+
+# Operating System
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+
+# Environment / Sensitive Files
+
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+
+# Temporary Files
+
+# ==============================
+
+*.tmp
+*.bak
+*~
